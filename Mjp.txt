@@ -7,3 +7,5 @@ This is my conflict line
 This is my conflict line2
 
 This is Mruganki
+
+this is mru second line
